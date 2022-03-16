@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdcc64A563d94ba5Ed2aaefA062d3C04CDD034bC4",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xdcc64a563d94ba5ed2aaefa062d3c04cdd034bc4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TEST NFTS",
+  "SYMBOL": "TST",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/asd-z3ekz5wh6n",
+  "SHOW_BACKGROUND": true
+}
